@@ -1,0 +1,3 @@
+# dependencies
+/node_modules
+frontend/config/config.local.js
